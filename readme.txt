@@ -19,5 +19,10 @@ secondgitupdate
 xiugai1
 xiugai2
 
+<<<<<<< HEAD
 firstxiugai
 secondxiugai
+=======
+
+lingyigexiugai
+>>>>>>> 0493133f2e4c0ddd46a438c4d9ebf04c625ac420
